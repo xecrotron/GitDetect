@@ -1,4 +1,4 @@
-#GitDetect
-#Checkout the deployment of the project:
 
-#https://gitdetect-xecrotron.netlify.app/
+Checkout the deployment of the project:
+
+https://gitdetect-xecrotron.netlify.app/
